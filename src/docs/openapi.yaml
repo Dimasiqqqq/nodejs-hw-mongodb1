@@ -13,7 +13,7 @@ tags:
     description: Auth operations.
 servers:
   - url: http://localhost:3000
-  - url: https://contacts-app-g0mr.onrender.com
+  - url: https://nodejs-hw-mongodb1-11.onrender.com
 paths:
   /auth/register:
     post:
